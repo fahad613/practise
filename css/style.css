@@ -1,0 +1,621 @@
+.p-0{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.pp-1{
+    padding-left: 15 !important;
+    padding-right: 15 !important;
+}
+.bg{
+    background-image: url(../images/img-1.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    color: #ffffff;
+    padding: 30px 100px;
+    
+}
+.color-head li a {
+    color: #ffffff !important;
+    border: 1px solid transparent;
+    padding: 3px 0px;
+    font-size: 17px;
+}
+.title1 li a:hover{
+    background-color: transparent;
+    color: #fff;
+}
+.title li a:focus{
+    border: 1px solid #ffffff;
+    background-color: transparent;
+    border-radius: 20px;   
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .centered h2{
+      letter-spacing: 5px;
+      font-weight: 2px;
+      font-size: 32px;
+      word-spacing: 0.5px;
+  }
+  .centered p{
+      font-size: 16px;
+      letter-spacing: 1px;
+  }
+  .bottom-left {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+  }
+  .bottom-left a{
+      border-radius: 35px;
+      height: 35px;
+      width: 35px;
+      font-size: 20px;
+      padding: 4px;
+      color: #fff;
+      background-color: rgb(19, 236, 226);
+  }
+
+/*................................banner-1......................*/
+.btn1{
+    background-color: #ffffff;
+    border: 1px solid #666666;
+    padding: 6px 30;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.btn1:hover{
+  border: 1px solid #666666;
+}
+button:active{
+    outline: 0;
+    border: none;
+}
+button:focus{
+    outline: 0;
+}
+.banner1 p{
+    font-size: 18px;
+    color: #838792;
+}
+.banner1 h6{
+    font-size: 25px;
+    color: #343b45;
+}
+/*......................banner-2........................*/
+.banner2 h4{
+    font-size: 25px;
+    color: #2f3031;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+.banner2 h5{
+    font-size: 25px;
+    color: #2f3031;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.banner2 p{
+    font-size: 17px;
+    color: #838792;
+}
+.p2{
+    padding: 60px 20px 0px 80px;
+}
+.icon button{
+    border-radius: 40px;
+    height: 50px;
+    width: 50px;
+}
+.btn-info1{
+   background-color: #04c0a7 !important;
+   color: #fff !important;
+   font-size: 25px !important;
+   margin-right: 10px;
+}
+.btn-info1:hover{
+   color: #fff;
+   font-size: 17px;
+}
+.btn-info2:hover{
+   color: #fff;
+   
+}
+.btn-info2{
+    background-color: #666666 !important;
+    color: #fff !important;
+    font-size: 25px !important; 
+
+}
+/*......................banner-3........................*/
+.banner3 h4{
+    font-size: 25px;
+    color: #2f3031;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+.banner3 p{
+    font-size: 17px;
+    color: #838792;
+}
+
+/*......................banner-4........................*/
+.banner4 img{
+    height: 350px;
+}
+.relative{
+    position: relative;
+}
+.centered-4 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .centered-4 h2{
+      letter-spacing: 2px;
+      font-size: 24px;
+    
+  }
+  .banner4-img1{
+     
+    filter: brightness(0.10); 
+    -webkit-filter:brightness(0.10);
+ }
+ .banner4-img2{
+    filter: brightness(0.20); 
+    -webkit-filter:brightness(0.20);
+}
+
+/*......................banner-5........................*/
+.banner5{
+    background-image: url(../images/img-39.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.banner5 p{
+    color: #fff;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+.btn3{
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    padding: 6px 30;
+    border-radius: 20px;
+    color: #ffffff;
+
+}
+
+/*......................banner-6........................*/
+.banner6{
+    margin-top: -20px;
+    border-radius: 0px;
+}
+.banner6 h3{
+    font-size: 22px;
+}
+.banner6 p{
+    font-size: 17px;
+}
+
+.icon a i{
+    font-size: 35px;
+}
+.icon1 a i{
+    font-size: 35px;
+}
+.icon2 a i{
+    font-size: 35px;
+}
+.icon3 a i{
+    font-size: 35px;
+}
+
+  .icon a{
+      border-radius: 35px;
+      height: 60px;
+      width: 60px;
+      background-color: #888787;
+  }
+  .icon1 a{
+    border-radius: 35px;
+    height: 60px;
+    width: 60px;
+    background-color: #04c0a7;
+}
+.icon2 a{
+    border-radius: 35px;
+    height: 60px;
+    width: 60px;
+    background-color: #888787;
+}
+.icon3 a{
+    border-radius: 35px;
+    height: 60px;
+    width: 60px;
+    background-color: #888787;
+}
+/*........................banner-7.......................*/
+.banner7{
+    background-image: url(../images/img-15.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #bbb9b9;
+}
+
+.lcd-img img{
+    margin-top: -40px;
+    padding: 0px 100px;
+}
+.px1{
+    padding: 0px 80px;
+}
+.banner7-in h3{
+    letter-spacing: 2px;
+    font-size: 20px;
+    
+}
+.banner7-in p{
+    font-size: 17px;
+    letter-spacing: 0.5px;
+}
+.banner7-in h5{
+    font-weight: bolder;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+/*........................banner-8.......................*/
+button.change {
+    border: none;
+    color: #000000;
+    font-size: 16px;
+    background-color: transparent;
+ }
+button:focus {
+    outline:0 !important;
+}
+button.change:focus{
+    border-bottom: 2px solid #04c0a7;
+}
+.banner8 button{
+    float: 18px;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+    color: #494949;
+    border-bottom: 2px solid transparent
+
+}
+button:active {
+    outline:0;
+    border: none;
+}
+.btnn:active{
+    border-bottom: 2px solid #04c0a7 !important;
+}
+.banner8 h3{
+    letter-spacing: 3px;
+    font-size: 24px;
+    color: #464646;
+}
+.banner8 p{
+    font-size: 16px;
+    color: #81868c;
+}
+.all-img img{
+    padding: 0px;
+    border: 5px solid transparent;
+    
+}
+/*......................banner-9........................*/
+.banner-9{
+    background-image: url(../images/img-28.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+
+}
+
+.banner-9 button{
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    padding: 7px 20;
+    border-radius: 20px;
+    color: #ffffff;
+
+}
+/*......................banner-10........................*/
+.banner10 h3{
+    font-size: 20px;
+}
+.p{
+    font-size: 17px !important;
+    font-style: italic;
+}
+.bor-r{
+    border-right: 5px solid #04c0a7;
+}
+.bar-1{
+    background-color: #04c0a7 !important;
+}
+.cor-1 li{
+    background-color: #04c0a7 !important;
+    color: #04c0a7 !important ;
+    height: 10px !important;
+    border-radius: 40px !important;
+    width: 10px !important;
+}
+/*......................banner-11........................*/
+.banner11{
+    background-image: url(../images/img-31.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    
+}
+.banner11 p{
+    font-size: 22px;
+}
+.btn4{
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    padding: 5px 25;
+    border-radius: 20px;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+.btn4:hover{
+    color: #fff;
+    border: 1px solid #ffffff;
+}
+/*......................banner-12........................*/
+.banner12 h4{
+    font-size: 21px;
+    letter-spacing: 3px;
+}
+.banner12 p{
+    color: #81868c;
+}
+/*......................banner-13........................*/
+.img-hi{
+    width: 100%;
+    background-image: url(../images/img-33.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #81868c;
+}
+.banner13 h3{
+    font-size: 22px;
+}
+
+/*......................banner-14........................*/
+.bg-color{
+    background-color: #19bd9a;
+    color: #ffffff;
+}
+.val-1{
+    color: #19bd9a;
+}
+.banner14 p{
+    color: #81868c;
+}
+.banner14 h4{
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+.txt-h{
+    color: rgb(194, 191, 191);
+}
+.crar-1{
+    margin: 0px 30px !important;
+}
+/*......................banner-15........................*/
+.banner15{
+    background-image: url(../images/img-34.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    margin-top: 0px;
+}
+.banner15 h4{
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+.txt-p{
+    color: #858383;
+    font-size: 17px;
+}
+.input-1{
+    border-radius: 0px !important;
+    font-size: 15px;
+    border: 1px solid #858383;
+    background-color: transparent !important;
+    padding: 20px 0px !important;
+}
+.btn-input{
+    border-radius: 0px !important;
+    background-color: #19bd9a !important;
+}
+/*......................banner-16........................*/
+.banner16 h3{
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+.card-3 {
+    margin: 0px 25px !important;
+}
+.card-3 img{
+    border-radius: 0px !important;
+}
+.card-3 i{
+    font-size: 50px;
+}
+.relativ-1 {
+    position: relative;
+  } 
+  
+  .absolute-1 {
+    position: absolute;
+    top: 45% !important;
+    left: 50% !important;
+    
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+  }
+  .banner16 h4{
+      font-size: 17px;
+      color: #000;
+  }
+  .banner16 p{
+      color: #858383;
+      font-size: 15px;
+  }
+  .btn-5{
+      background-color: #19bd9a !important;
+      border-radius: 0px !important;
+  }
+  
+/*...........................banner-17..............................*/
+  .banner17 input{
+      border-radius: 0px !important;
+      padding: 20px 10px;
+  }
+  .banner17 textarea{
+    border-radius: 0px !important;
+}
+/*...........................banner-18..............................*/
+.banner18{
+    background-image: url(../images/img-38.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    color: #fff;
+    height: 100%;
+    margin-top: 100px;
+    position: relative;
+    text-align: center;
+}
+.banner18 h5{
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+.centered-4{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+ .btn-1{
+     background-color: #04c0a7 !important;
+     color: #fff !important;
+     height: 20px !important;
+     width: 20px !important;
+     padding: 0px !important;
+     border-radius: 20px !important;
+     font-size: 2px;
+     margin-left: 15px;
+ } 
+ .btn-1:hover{
+    color: #fff;
+ }
+
+/*...........................banner-19..............................*/
+.banner19 p{
+    color: #81868c;
+    font-size: 17px;
+}
+.banner19 h4{
+    font-weight: bolder;
+    letter-spacing: 0.5;
+}
+ .i-con-1{
+    background-color: #3c5999;
+    border-radius: 20px;
+    color: #ffff;
+    padding: 7px 6px;
+    font-size: 12px;
+}
+.i-con-2{
+   background-color: #26a7d1;
+   border-radius: 20px;
+   padding: 5px 8px;
+   color: #ffff;
+   font-size: 15px;
+}
+.i-con-3{
+   background-color: #0e77a7;
+   border-radius: 20px;
+   color: #ffff;
+   padding: 4px 8px;
+   font-size: 16px;
+}
+.i-con-4{
+   background-color: #3f729a;
+   font-size: 16px;
+   border-radius: 20px;
+   color: #ffff;
+   padding: 4px 7px;
+}
+.i-con-5{
+   background-color: #86c9ef;
+   border-radius: 20px;
+   color: #ffff;
+   padding: 4px 8px;
+}
+
+@media  screen and (max-width: 450px) {
+
+    .px1{
+        padding: 0px 15px;
+    }
+}
+@media  screen and (max-width: 767px) {
+    .centered h2{
+        letter-spacing: 3px;
+        font-size: 25px;
+        padding-top: 20px;
+    }
+    .bg{
+        padding: 10px;
+    }
+    .pl .pt {
+        padding: 0rem;
+    }
+    .ml {
+        margin-left: 0rem !important;
+    }
+    .p2{
+        padding: 0px !important;
+    }
+    
+}
+@media  screen and (max-width: 1024px) {
+    .banner4 img{
+        height: 250px !important;
+    }
+    .lcd-img img{
+        margin-top: -20px;
+        padding: 0px 20px;
+    }
+    .px1{
+        padding: 0px 20px;
+    }
+    .crar-1{
+        margin: 0px 10px !important;
+    }
+    .card-3{
+        margin: 0px 10px !important;
+    }
+}
